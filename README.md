@@ -40,3 +40,4 @@ This project demonstrates a Natural Language Query Agent capable of answering qu
 
 - Implement conversational memory for handling follow-up queries.
 - Expand the dataset to include more lectures and model architectures.
+- Utilize LLMs/Multi-modal models by means of API calls.
