@@ -1,0 +1,1 @@
+faiss-cpu transformers requests bs4 torch sentence_transformers
